@@ -5,5 +5,4 @@ git is free softwares
 sssssss
 ddddddd
 my mind is meaningful
-Create a new branch is quick & simple
-
+Creating a new branch is quick simple
